@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactTesting/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactTesting/static/js/main.33ed78ed.chunk.js",
+    "main.js.map": "/ReactTesting/static/js/main.33ed78ed.chunk.js.map",
+    "runtime-main.js": "/ReactTesting/static/js/runtime-main.05782e29.js",
+    "runtime-main.js.map": "/ReactTesting/static/js/runtime-main.05782e29.js.map",
+    "static/js/2.f7e164c6.chunk.js": "/ReactTesting/static/js/2.f7e164c6.chunk.js",
+    "static/js/2.f7e164c6.chunk.js.map": "/ReactTesting/static/js/2.f7e164c6.chunk.js.map",
+    "index.html": "/ReactTesting/index.html",
+    "precache-manifest.eadb5bc69429c8d147c2dc4387bf80d4.js": "/ReactTesting/precache-manifest.eadb5bc69429c8d147c2dc4387bf80d4.js",
+    "service-worker.js": "/ReactTesting/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactTesting/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f7e164c6.chunk.js.LICENSE.txt": "/ReactTesting/static/js/2.f7e164c6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactTesting/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05782e29.js",
+    "static/js/2.f7e164c6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.33ed78ed.chunk.js"
+  ]
+}
